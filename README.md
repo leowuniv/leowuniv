@@ -3,6 +3,8 @@
       Please contact me for inquiries, I will reach you through a personalized account to 
       discuss about research opportunities or future passion projects.
 
+      @g.ucla.edu
+
 - 👋 Hi, I’m Leo
 - 👀 I’m interested in Data Science/Artificial Intelligence (AI)!
 - 🌱 I’m currently learning data models!
