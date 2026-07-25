@@ -9,7 +9,7 @@
 - 👀 I’m interested in Data Science/Artificial Intelligence (AI)!
 - 🌱 I’m currently learning data models!
 - 💞️ I’m looking to collaborate on research projects!
-- 📫 How to reach me - @leowuniv | Find me on linked in [here!](www.linkedin.com/in/leowuniv) [![LinkedIn](https://shields.io)](https://linkedin.com)
+- 📫 How to reach me - @leowuniv | Find me on linked in [here!](www.linkedin.com/in/leowuniv) [![here!](https://shields.io)](https://linkedin.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loading... Find my some of my other projects below!
 
