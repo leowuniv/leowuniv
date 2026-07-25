@@ -9,9 +9,9 @@
 - 👀 I’m interested in Data Science/Artificial Intelligence (AI)!
 - 🌱 I’m currently learning data models!
 - 💞️ I’m looking to collaborate on research projects!
-- 📫 How to reach me - @leowuniv
+- 📫 How to reach me - @leowuniv | Find me on linked in [here!](www.linkedin.com/in/leowuniv)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Loading...
+- ⚡ Fun fact: Loading... Find my some of my other projects below!
 
 [https://github.com/xPug]
 
